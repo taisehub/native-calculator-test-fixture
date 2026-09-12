@@ -1,0 +1,11 @@
+{
+  "name": "native-calculator-example",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "calcassets-native-tests": "file:vendor/calcassets-native-tests.tgz"
+  }
+}
